@@ -2,7 +2,7 @@
 
 A responsive, interactive personal portfolio website showcasing my skills, projects, and professional experience in Software Engineering, AI, and Cloud Computing. 
 
-**🔗 [View Live Website Here](https://wasimakramsheriff.netlify.app/)** *(Note: Update this link if you are using your GitHub Pages URL instead!)*
+**🔗 [View Live Website Here](https://wasimakramsheriff.netlify.app/)**
 
 ## 🌟 Features
 * **Modern UI/UX:** Clean, dark-themed design with smooth scrolling and engaging hover animations.
@@ -18,8 +18,10 @@ A responsive, interactive personal portfolio website showcasing my skills, proje
 
 ## 💻 How to Run Locally
 If you want to run this project on your local machine:
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/wasimakramsheriff-1274/portfolio-website.git](https://github.com/wasimakramsheriff-1274/portfolio-website.git)
+1. Download the code from GitHub as a ZIP file and extract it.
+2. Open `index.html` in any web browser. (No build tools or server required!)
 
-   
+## 📫 Let's Connect
+* **Email:** [wasimakramsheriff@gmail.com](mailto:wasimakramsheriff@gmail.com)
+* **LinkedIn:** [linkedin.com/in/wasim-akram-sheriff](https://linkedin.com/in/wasim-akram-sheriff)
+* **GitHub:** [github.com/wasimakramsheriff-1274](https://github.com/wasimakramsheriff-1274)
