@@ -2,7 +2,7 @@
 
 A responsive, interactive personal portfolio website showcasing my skills, projects, and professional experience in Software Engineering, AI, and Cloud Computing. 
 
-**🔗 [View Live Website Here](https://wasimakramsheriff.netlify.app/)**
+**🔗 [View Live Website Here](https://wasim-akram-sheriff1012.netlify.app/)**
 
 ## 🌟 Features
 * **Modern UI/UX:** Clean, dark-themed design with smooth scrolling and engaging hover animations.
