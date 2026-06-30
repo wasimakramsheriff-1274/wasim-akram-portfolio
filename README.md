@@ -7,7 +7,7 @@
 
 > A high-performance, responsive frontend developer portfolio designed to showcase production-ready software engineering projects, cloud architectures, and machine learning pipelines.
 
-🔗 **Live Production Build:** [View Portfolio Here](https://wasim-akram-portfolio.vercel.app/)
+🔗 **Live Production Build:** [View Portfolio Here](https://wasim-akram-portfolio-zeta.vercel.app/)
 
 ---
 
